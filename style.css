@@ -445,6 +445,7 @@ body {
   .nav-links a {
     font-size: 13px;
   }
+git add --all && git commit -m "{commit_message}" && git push
 
   .skill-card {
     width: 100%;
